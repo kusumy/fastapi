@@ -1,0 +1,2084 @@
+[
+    {
+      "datestamp": "2019-08-18T01:00:00.000Z",
+      "y": 743,
+      "predicted": 744.2141653888,
+      "forecast": 0
+    },
+    {
+      "datestamp": "2019-08-18T02:00:00.000Z",
+      "y": 743,
+      "predicted": 744.4271420253,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T03:00:00.000Z",
+      "y": 745,
+      "predicted": 743.8368144643,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T04:00:00.000Z",
+      "y": 744,
+      "predicted": 743.547657569,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T05:00:00.000Z",
+      "y": 742,
+      "predicted": 743.5569729466,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T06:00:00.000Z",
+      "y": 743,
+      "predicted": 743.5032490549,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T07:00:00.000Z",
+      "y": 742,
+      "predicted": 743.4773542519,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T08:00:00.000Z",
+      "y": 750,
+      "predicted": 744.0403205009,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T09:00:00.000Z",
+      "y": 743,
+      "predicted": 745.0409188034,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T10:00:00.000Z",
+      "y": 743,
+      "predicted": 744.0701698827,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T11:00:00.000Z",
+      "y": 743,
+      "predicted": 744.1131348083,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T12:00:00.000Z",
+      "y": 743,
+      "predicted": 744.7511655789,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T13:00:00.000Z",
+      "y": 744,
+      "predicted": 744.1745664192,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T14:00:00.000Z",
+      "y": 741,
+      "predicted": 744.5272120069,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T15:00:00.000Z",
+      "y": 742,
+      "predicted": 744.8956877452,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T16:00:00.000Z",
+      "y": 744,
+      "predicted": 743.9720933915,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T17:00:00.000Z",
+      "y": 742,
+      "predicted": 744.7637495575,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T18:00:00.000Z",
+      "y": 742,
+      "predicted": 744.622427512,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T19:00:00.000Z",
+      "y": 743,
+      "predicted": 744.43522203,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T20:00:00.000Z",
+      "y": 745,
+      "predicted": 743.8812761255,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T21:00:00.000Z",
+      "y": 746,
+      "predicted": 744.2182885647,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T22:00:00.000Z",
+      "y": 745,
+      "predicted": 744.3102047984,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-18T23:00:00.000Z",
+      "y": 743,
+      "predicted": 744.830715279,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T00:00:00.000Z",
+      "y": 744,
+      "predicted": 744.0504268265,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T01:00:00.000Z",
+      "y": 742,
+      "predicted": 744.7065394098,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T02:00:00.000Z",
+      "y": 743,
+      "predicted": 744.2295898469,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T03:00:00.000Z",
+      "y": 743,
+      "predicted": 744.6081709144,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T04:00:00.000Z",
+      "y": 746,
+      "predicted": 744.2915671481,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T05:00:00.000Z",
+      "y": 745,
+      "predicted": 744.6157296674,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T06:00:00.000Z",
+      "y": 743,
+      "predicted": 744.7810109783,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T07:00:00.000Z",
+      "y": 743,
+      "predicted": 744.2154212306,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T08:00:00.000Z",
+      "y": 746,
+      "predicted": 744.6329925644,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T09:00:00.000Z",
+      "y": 745,
+      "predicted": 744.6730028925,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T10:00:00.000Z",
+      "y": 742,
+      "predicted": 744.1083668384,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T11:00:00.000Z",
+      "y": 749,
+      "predicted": 744.8148464053,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T12:00:00.000Z",
+      "y": 745,
+      "predicted": 744.244582199,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T13:00:00.000Z",
+      "y": 740,
+      "predicted": 744.5323189554,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T14:00:00.000Z",
+      "y": 747,
+      "predicted": 743.8754865599,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T15:00:00.000Z",
+      "y": 742,
+      "predicted": 744.8759655337,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T16:00:00.000Z",
+      "y": 743,
+      "predicted": 744.3793341125,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T17:00:00.000Z",
+      "y": 742,
+      "predicted": 744.7454501425,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T18:00:00.000Z",
+      "y": 746,
+      "predicted": 743.9165160996,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T19:00:00.000Z",
+      "y": 738,
+      "predicted": 745.134045042,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T20:00:00.000Z",
+      "y": 742,
+      "predicted": 744.4111127131,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T21:00:00.000Z",
+      "y": 743,
+      "predicted": 743.9312647254,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T22:00:00.000Z",
+      "y": 744,
+      "predicted": 744.4432623826,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-19T23:00:00.000Z",
+      "y": 746,
+      "predicted": 744.0275606749,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T00:00:00.000Z",
+      "y": 741,
+      "predicted": 744.4879592213,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T01:00:00.000Z",
+      "y": 744,
+      "predicted": 744.1327542822,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T02:00:00.000Z",
+      "y": 742,
+      "predicted": 744.8410733258,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T03:00:00.000Z",
+      "y": 744,
+      "predicted": 744.6353591856,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T04:00:00.000Z",
+      "y": 743,
+      "predicted": 744.927310424,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T05:00:00.000Z",
+      "y": 744,
+      "predicted": 744.618327479,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T06:00:00.000Z",
+      "y": 741,
+      "predicted": 744.8716095527,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T07:00:00.000Z",
+      "y": 747,
+      "predicted": 744.6212169256,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T08:00:00.000Z",
+      "y": 742,
+      "predicted": 745.3630632831,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T09:00:00.000Z",
+      "y": 742,
+      "predicted": 744.7422422629,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T10:00:00.000Z",
+      "y": 744,
+      "predicted": 744.982357081,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T11:00:00.000Z",
+      "y": 745,
+      "predicted": 744.3943803562,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T12:00:00.000Z",
+      "y": 740,
+      "predicted": 745.043384086,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T13:00:00.000Z",
+      "y": 743,
+      "predicted": 744.3929188928,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T14:00:00.000Z",
+      "y": 746,
+      "predicted": 743.8427757652,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T15:00:00.000Z",
+      "y": 739,
+      "predicted": 745.0673068033,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T16:00:00.000Z",
+      "y": 745,
+      "predicted": 744.0399583135,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T17:00:00.000Z",
+      "y": 743,
+      "predicted": 744.616606156,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T18:00:00.000Z",
+      "y": 744,
+      "predicted": 744.6326437966,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T19:00:00.000Z",
+      "y": 743,
+      "predicted": 744.2987391783,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T20:00:00.000Z",
+      "y": 740,
+      "predicted": 744.2651261704,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T21:00:00.000Z",
+      "y": 742,
+      "predicted": 744.5952738958,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T22:00:00.000Z",
+      "y": 744,
+      "predicted": 744.1804101519,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-20T23:00:00.000Z",
+      "y": 740,
+      "predicted": 744.7595939052,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T00:00:00.000Z",
+      "y": 742,
+      "predicted": 744.1860282535,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T01:00:00.000Z",
+      "y": 744,
+      "predicted": 744.3495146944,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T02:00:00.000Z",
+      "y": 741,
+      "predicted": 744.7055651733,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T03:00:00.000Z",
+      "y": 742,
+      "predicted": 744.1829888578,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T04:00:00.000Z",
+      "y": 743,
+      "predicted": 744.4649629738,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T05:00:00.000Z",
+      "y": 741,
+      "predicted": 744.809306939,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T06:00:00.000Z",
+      "y": 739,
+      "predicted": 744.650321431,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T07:00:00.000Z",
+      "y": 738,
+      "predicted": 744.4367534799,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T08:00:00.000Z",
+      "y": 745,
+      "predicted": 744.7881103284,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T09:00:00.000Z",
+      "y": 741,
+      "predicted": 745.0386973037,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T10:00:00.000Z",
+      "y": 744,
+      "predicted": 744.5855539089,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T11:00:00.000Z",
+      "y": 744,
+      "predicted": 744.9510718505,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T12:00:00.000Z",
+      "y": 743,
+      "predicted": 745.335608958,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T13:00:00.000Z",
+      "y": 744,
+      "predicted": 744.9603660472,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T14:00:00.000Z",
+      "y": 743,
+      "predicted": 745.0682025922,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T15:00:00.000Z",
+      "y": 745,
+      "predicted": 744.7365305171,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T16:00:00.000Z",
+      "y": 743,
+      "predicted": 744.8661360375,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T17:00:00.000Z",
+      "y": 748,
+      "predicted": 744.2688838765,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T18:00:00.000Z",
+      "y": 743,
+      "predicted": 745.0867298752,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T19:00:00.000Z",
+      "y": 738,
+      "predicted": 744.4639225226,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T20:00:00.000Z",
+      "y": 742,
+      "predicted": 744.2099995464,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T21:00:00.000Z",
+      "y": 743,
+      "predicted": 743.9725457425,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T22:00:00.000Z",
+      "y": 743,
+      "predicted": 744.3282640475,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-21T23:00:00.000Z",
+      "y": 738,
+      "predicted": 744.750743421,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T00:00:00.000Z",
+      "y": 742,
+      "predicted": 743.7391118459,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T01:00:00.000Z",
+      "y": 740,
+      "predicted": 744.3146661852,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T02:00:00.000Z",
+      "y": 743,
+      "predicted": 743.615570288,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T03:00:00.000Z",
+      "y": 742,
+      "predicted": 744.0569473705,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T04:00:00.000Z",
+      "y": 743,
+      "predicted": 744.1755776207,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T05:00:00.000Z",
+      "y": 743,
+      "predicted": 743.8266622473,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T06:00:00.000Z",
+      "y": 742,
+      "predicted": 744.3256910263,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T07:00:00.000Z",
+      "y": 741,
+      "predicted": 744.0820105007,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T08:00:00.000Z",
+      "y": 743,
+      "predicted": 744.088857622,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T09:00:00.000Z",
+      "y": 743,
+      "predicted": 744.3102486459,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T10:00:00.000Z",
+      "y": 745,
+      "predicted": 743.9768325727,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T11:00:00.000Z",
+      "y": 744,
+      "predicted": 745.0404354717,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T12:00:00.000Z",
+      "y": 747,
+      "predicted": 744.4301051359,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T13:00:00.000Z",
+      "y": 750,
+      "predicted": 744.768213974,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T14:00:00.000Z",
+      "y": 741,
+      "predicted": 745.6134671161,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T15:00:00.000Z",
+      "y": 743,
+      "predicted": 744.6357531368,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T16:00:00.000Z",
+      "y": 744,
+      "predicted": 744.6522982505,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T17:00:00.000Z",
+      "y": 743,
+      "predicted": 744.928901426,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T18:00:00.000Z",
+      "y": 745,
+      "predicted": 744.976449794,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T19:00:00.000Z",
+      "y": 743,
+      "predicted": 744.7318715246,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T20:00:00.000Z",
+      "y": 740,
+      "predicted": 745.0943163007,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T21:00:00.000Z",
+      "y": 745,
+      "predicted": 744.0613672152,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T22:00:00.000Z",
+      "y": 745,
+      "predicted": 744.6726290746,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-22T23:00:00.000Z",
+      "y": 743,
+      "predicted": 744.6315571911,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T00:00:00.000Z",
+      "y": 743,
+      "predicted": 744.6628129571,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T01:00:00.000Z",
+      "y": 744,
+      "predicted": 744.4546446713,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T02:00:00.000Z",
+      "y": 738,
+      "predicted": 745.2592436439,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T03:00:00.000Z",
+      "y": 743,
+      "predicted": 743.535317726,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T04:00:00.000Z",
+      "y": 744,
+      "predicted": 743.3648856759,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T05:00:00.000Z",
+      "y": 743,
+      "predicted": 743.9553087989,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T06:00:00.000Z",
+      "y": 743,
+      "predicted": 743.3367610211,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T07:00:00.000Z",
+      "y": 742,
+      "predicted": 743.8974603719,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T08:00:00.000Z",
+      "y": 744,
+      "predicted": 743.857998078,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T09:00:00.000Z",
+      "y": 742,
+      "predicted": 743.5436480613,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T10:00:00.000Z",
+      "y": 742,
+      "predicted": 743.7495417314,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T11:00:00.000Z",
+      "y": 741,
+      "predicted": 743.8717685024,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T12:00:00.000Z",
+      "y": 743,
+      "predicted": 743.8155051458,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T13:00:00.000Z",
+      "y": 743,
+      "predicted": 744.0828288221,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T14:00:00.000Z",
+      "y": 742,
+      "predicted": 744.172896779,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T15:00:00.000Z",
+      "y": 742,
+      "predicted": 744.1032995144,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T16:00:00.000Z",
+      "y": 742,
+      "predicted": 744.1575972473,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T17:00:00.000Z",
+      "y": 742,
+      "predicted": 744.2254936828,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T18:00:00.000Z",
+      "y": 742,
+      "predicted": 744.201746012,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T19:00:00.000Z",
+      "y": 741,
+      "predicted": 744.0475385388,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T20:00:00.000Z",
+      "y": 742,
+      "predicted": 744.0297807523,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T21:00:00.000Z",
+      "y": 742,
+      "predicted": 743.9192341888,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T22:00:00.000Z",
+      "y": 744,
+      "predicted": 744.2234948084,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-23T23:00:00.000Z",
+      "y": 742,
+      "predicted": 744.1504516868,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T00:00:00.000Z",
+      "y": 742,
+      "predicted": 743.9554861256,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T01:00:00.000Z",
+      "y": 742,
+      "predicted": 744.051040108,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T02:00:00.000Z",
+      "y": 743,
+      "predicted": 743.9304635082,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T03:00:00.000Z",
+      "y": 743,
+      "predicted": 743.931422572,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T04:00:00.000Z",
+      "y": 744,
+      "predicted": 743.5301747454,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T05:00:00.000Z",
+      "y": 743,
+      "predicted": 743.5716427848,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T06:00:00.000Z",
+      "y": 745,
+      "predicted": 743.9380788952,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T07:00:00.000Z",
+      "y": 743,
+      "predicted": 745.2931548215,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T08:00:00.000Z",
+      "y": 742,
+      "predicted": 745.1560695847,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T09:00:00.000Z",
+      "y": 745,
+      "predicted": 745.1381876966,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T10:00:00.000Z",
+      "y": 741,
+      "predicted": 745.3366357807,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T11:00:00.000Z",
+      "y": 743,
+      "predicted": 744.6102594842,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T12:00:00.000Z",
+      "y": 745,
+      "predicted": 744.9680254266,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T13:00:00.000Z",
+      "y": 740,
+      "predicted": 745.4093539399,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T14:00:00.000Z",
+      "y": 743,
+      "predicted": 744.4273826301,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T15:00:00.000Z",
+      "y": 741,
+      "predicted": 744.9240115259,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T16:00:00.000Z",
+      "y": 742,
+      "predicted": 744.6439274744,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T17:00:00.000Z",
+      "y": 743,
+      "predicted": 745.0611279761,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T18:00:00.000Z",
+      "y": 742,
+      "predicted": 745.102889488,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T19:00:00.000Z",
+      "y": 745,
+      "predicted": 744.9470294269,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T20:00:00.000Z",
+      "y": 740,
+      "predicted": 744.6981028236,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T21:00:00.000Z",
+      "y": 742,
+      "predicted": 744.4079336973,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T22:00:00.000Z",
+      "y": 741,
+      "predicted": 745.1782479219,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-24T23:00:00.000Z",
+      "y": 743,
+      "predicted": 744.9602620607,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T00:00:00.000Z",
+      "y": 738,
+      "predicted": 745.3806770374,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T01:00:00.000Z",
+      "y": 746,
+      "predicted": 745.1943873499,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T02:00:00.000Z",
+      "y": 742,
+      "predicted": 745.0378054748,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T03:00:00.000Z",
+      "y": 744,
+      "predicted": 744.6606544156,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T04:00:00.000Z",
+      "y": 741,
+      "predicted": 744.8789571191,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T05:00:00.000Z",
+      "y": 745,
+      "predicted": 744.6260340778,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T06:00:00.000Z",
+      "y": 743,
+      "predicted": 744.9429210144,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T07:00:00.000Z",
+      "y": 742,
+      "predicted": 744.952478667,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T08:00:00.000Z",
+      "y": 744,
+      "predicted": 744.1621108427,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T09:00:00.000Z",
+      "y": 743,
+      "predicted": 744.6464157899,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T10:00:00.000Z",
+      "y": 745,
+      "predicted": 744.6906131218,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T11:00:00.000Z",
+      "y": 742,
+      "predicted": 744.7844761366,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T12:00:00.000Z",
+      "y": 742,
+      "predicted": 745.1333948005,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T13:00:00.000Z",
+      "y": 740,
+      "predicted": 745.2704811419,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T14:00:00.000Z",
+      "y": 744,
+      "predicted": 744.8323966962,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T15:00:00.000Z",
+      "y": 746,
+      "predicted": 745.1180346617,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T16:00:00.000Z",
+      "y": 742,
+      "predicted": 744.4390995866,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T17:00:00.000Z",
+      "y": 737,
+      "predicted": 744.4151177929,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T18:00:00.000Z",
+      "y": 745,
+      "predicted": 743.7494364338,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T19:00:00.000Z",
+      "y": 742,
+      "predicted": 744.3068564524,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T20:00:00.000Z",
+      "y": 740,
+      "predicted": 744.2176489293,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T21:00:00.000Z",
+      "y": 743,
+      "predicted": 744.166742037,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T22:00:00.000Z",
+      "y": 741,
+      "predicted": 744.2413073561,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-25T23:00:00.000Z",
+      "y": 743,
+      "predicted": 744.1701762189,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T00:00:00.000Z",
+      "y": 743,
+      "predicted": 744.1012557795,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T01:00:00.000Z",
+      "y": 743,
+      "predicted": 744.5310679211,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T02:00:00.000Z",
+      "y": 744,
+      "predicted": 744.685652068,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T03:00:00.000Z",
+      "y": 743,
+      "predicted": 744.1694333396,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T04:00:00.000Z",
+      "y": 745,
+      "predicted": 745.0807465673,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T05:00:00.000Z",
+      "y": 744,
+      "predicted": 744.4696792509,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T06:00:00.000Z",
+      "y": 741,
+      "predicted": 745.0417800539,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T07:00:00.000Z",
+      "y": 744,
+      "predicted": 744.1103558676,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T08:00:00.000Z",
+      "y": 741,
+      "predicted": 744.5752376652,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T09:00:00.000Z",
+      "y": 744,
+      "predicted": 744.6883064138,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T10:00:00.000Z",
+      "y": 743,
+      "predicted": 745.0883197581,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T11:00:00.000Z",
+      "y": 743,
+      "predicted": 745.5538733788,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T12:00:00.000Z",
+      "y": 743,
+      "predicted": 745.7850439836,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T13:00:00.000Z",
+      "y": 741,
+      "predicted": 745.9529189581,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T14:00:00.000Z",
+      "y": 744,
+      "predicted": 745.2946359959,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T15:00:00.000Z",
+      "y": 743,
+      "predicted": 745.6661287154,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T16:00:00.000Z",
+      "y": 743,
+      "predicted": 746.0037022075,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T17:00:00.000Z",
+      "y": 744,
+      "predicted": 745.7771739536,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T18:00:00.000Z",
+      "y": 743,
+      "predicted": 745.5980260568,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T19:00:00.000Z",
+      "y": 740,
+      "predicted": 745.7336839409,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T20:00:00.000Z",
+      "y": 743,
+      "predicted": 745.4495502667,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T21:00:00.000Z",
+      "y": 743,
+      "predicted": 745.1886455129,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T22:00:00.000Z",
+      "y": 747,
+      "predicted": 745.1575970851,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-26T23:00:00.000Z",
+      "y": 743,
+      "predicted": 745.9804227733,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T00:00:00.000Z",
+      "y": 742,
+      "predicted": 745.8102230166,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T01:00:00.000Z",
+      "y": 745,
+      "predicted": 745.6343440969,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T02:00:00.000Z",
+      "y": 744,
+      "predicted": 745.3327631494,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T03:00:00.000Z",
+      "y": 744,
+      "predicted": 745.3714814819,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T04:00:00.000Z",
+      "y": 746,
+      "predicted": 745.2839456086,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T05:00:00.000Z",
+      "y": 747,
+      "predicted": 746.4172569783,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T06:00:00.000Z",
+      "y": 745,
+      "predicted": 745.668437683,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T07:00:00.000Z",
+      "y": 744,
+      "predicted": 744.9159982998,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T08:00:00.000Z",
+      "y": 745,
+      "predicted": 745.52914105,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T09:00:00.000Z",
+      "y": 743,
+      "predicted": 745.329786478,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T10:00:00.000Z",
+      "y": 743,
+      "predicted": 745.7749141407,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T11:00:00.000Z",
+      "y": 742,
+      "predicted": 745.8181977277,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T12:00:00.000Z",
+      "y": 743,
+      "predicted": 746.0619727912,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T13:00:00.000Z",
+      "y": 741,
+      "predicted": 745.8535792543,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T14:00:00.000Z",
+      "y": 742,
+      "predicted": 745.2294655008,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T15:00:00.000Z",
+      "y": 746,
+      "predicted": 745.7132671191,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T16:00:00.000Z",
+      "y": 741,
+      "predicted": 746.0617530659,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T17:00:00.000Z",
+      "y": 744,
+      "predicted": 745.1190949773,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T18:00:00.000Z",
+      "y": 747,
+      "predicted": 746.0762455463,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T19:00:00.000Z",
+      "y": 745,
+      "predicted": 745.3533032824,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T20:00:00.000Z",
+      "y": 741,
+      "predicted": 745.6091181139,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T21:00:00.000Z",
+      "y": 748,
+      "predicted": 745.72418871,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T22:00:00.000Z",
+      "y": 746,
+      "predicted": 745.5178416057,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-27T23:00:00.000Z",
+      "y": 742,
+      "predicted": 745.7529303534,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T00:00:00.000Z",
+      "y": 743,
+      "predicted": 745.4188361568,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T01:00:00.000Z",
+      "y": 744,
+      "predicted": 745.6383655607,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T02:00:00.000Z",
+      "y": 740,
+      "predicted": 745.6235461135,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T03:00:00.000Z",
+      "y": 743,
+      "predicted": 744.9052950566,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T04:00:00.000Z",
+      "y": 741,
+      "predicted": 745.5390737736,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T05:00:00.000Z",
+      "y": 744,
+      "predicted": 745.2267826755,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T06:00:00.000Z",
+      "y": 742,
+      "predicted": 745.4305856334,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T07:00:00.000Z",
+      "y": 744,
+      "predicted": 745.7910666754,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T08:00:00.000Z",
+      "y": 744,
+      "predicted": 745.743454434,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T09:00:00.000Z",
+      "y": 743,
+      "predicted": 745.5899555696,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T10:00:00.000Z",
+      "y": 743,
+      "predicted": 745.8842638606,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T11:00:00.000Z",
+      "y": 743,
+      "predicted": 744.0436173807,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T12:00:00.000Z",
+      "y": 743,
+      "predicted": 746.1364915509,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T13:00:00.000Z",
+      "y": 743,
+      "predicted": 745.8570523416,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T14:00:00.000Z",
+      "y": 739,
+      "predicted": 745.7488684867,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T15:00:00.000Z",
+      "y": 744,
+      "predicted": 745.5440744934,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T16:00:00.000Z",
+      "y": 744,
+      "predicted": 745.6220442031,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T17:00:00.000Z",
+      "y": 739,
+      "predicted": 746.1041645042,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T18:00:00.000Z",
+      "y": 746,
+      "predicted": 745.3537116419,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T19:00:00.000Z",
+      "y": 747,
+      "predicted": 745.8481448341,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T20:00:00.000Z",
+      "y": 746,
+      "predicted": 746.0209313345,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T21:00:00.000Z",
+      "y": 742,
+      "predicted": 745.6151970078,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T22:00:00.000Z",
+      "y": 739,
+      "predicted": 745.7459782802,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-28T23:00:00.000Z",
+      "y": 747,
+      "predicted": 744.9087911873,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T00:00:00.000Z",
+      "y": 743,
+      "predicted": 745.8857135533,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T01:00:00.000Z",
+      "y": 745,
+      "predicted": 745.3622682341,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T02:00:00.000Z",
+      "y": 740,
+      "predicted": 746.0872063604,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T03:00:00.000Z",
+      "y": 742,
+      "predicted": 745.3954967843,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T04:00:00.000Z",
+      "y": 743,
+      "predicted": 746.0080895343,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T05:00:00.000Z",
+      "y": 745,
+      "predicted": 745.8245603834,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T06:00:00.000Z",
+      "y": 743,
+      "predicted": 745.8906103406,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T07:00:00.000Z",
+      "y": 745,
+      "predicted": 745.6862775791,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T08:00:00.000Z",
+      "y": 743,
+      "predicted": 745.8722077503,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T09:00:00.000Z",
+      "y": 741,
+      "predicted": 745.866240643,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T10:00:00.000Z",
+      "y": 742,
+      "predicted": 745.4006017376,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T11:00:00.000Z",
+      "y": 742,
+      "predicted": 745.296964993,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T12:00:00.000Z",
+      "y": 743,
+      "predicted": 745.3210875661,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T13:00:00.000Z",
+      "y": 743,
+      "predicted": 745.2986186723,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T14:00:00.000Z",
+      "y": 745,
+      "predicted": 745.1860820546,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T15:00:00.000Z",
+      "y": 741,
+      "predicted": 745.7319437032,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T16:00:00.000Z",
+      "y": 744,
+      "predicted": 745.4275009843,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T17:00:00.000Z",
+      "y": 741,
+      "predicted": 745.7182331544,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T18:00:00.000Z",
+      "y": 740,
+      "predicted": 745.958972065,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T19:00:00.000Z",
+      "y": 739,
+      "predicted": 746.1874292329,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T20:00:00.000Z",
+      "y": 742,
+      "predicted": 745.5235426172,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T21:00:00.000Z",
+      "y": 743,
+      "predicted": 745.8887334616,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T22:00:00.000Z",
+      "y": 740,
+      "predicted": 746.0993278835,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-29T23:00:00.000Z",
+      "y": 743,
+      "predicted": 745.4805489319,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T00:00:00.000Z",
+      "y": 743,
+      "predicted": 745.3420165223,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T01:00:00.000Z",
+      "y": 741,
+      "predicted": 745.6969943658,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T02:00:00.000Z",
+      "y": 744,
+      "predicted": 745.3870774089,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T03:00:00.000Z",
+      "y": 740,
+      "predicted": 745.8357608682,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T04:00:00.000Z",
+      "y": 745,
+      "predicted": 745.02427752,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T05:00:00.000Z",
+      "y": 743,
+      "predicted": 746.1502098758,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T06:00:00.000Z",
+      "y": 744,
+      "predicted": 745.6465451189,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T07:00:00.000Z",
+      "y": 743,
+      "predicted": 745.6664232898,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T08:00:00.000Z",
+      "y": 740,
+      "predicted": 745.8083010751,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T09:00:00.000Z",
+      "y": 743,
+      "predicted": 745.3153540574,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T10:00:00.000Z",
+      "y": 740,
+      "predicted": 745.5318925235,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T11:00:00.000Z",
+      "y": 742,
+      "predicted": 744.7717617679,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T12:00:00.000Z",
+      "y": 743,
+      "predicted": 744.6846127782,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T13:00:00.000Z",
+      "y": 745,
+      "predicted": 745.3200325701,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T14:00:00.000Z",
+      "y": 747,
+      "predicted": 745.1914775995,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T15:00:00.000Z",
+      "y": 745,
+      "predicted": 746.1108194072,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T16:00:00.000Z",
+      "y": 743,
+      "predicted": 745.2096782266,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T17:00:00.000Z",
+      "y": 743,
+      "predicted": 745.1066712415,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T18:00:00.000Z",
+      "y": 742,
+      "predicted": 745.419090655,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T19:00:00.000Z",
+      "y": 746,
+      "predicted": 745.7943444403,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T20:00:00.000Z",
+      "y": 747,
+      "predicted": 745.8796809423,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T21:00:00.000Z",
+      "y": 740,
+      "predicted": 745.8940457678,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T22:00:00.000Z",
+      "y": 744,
+      "predicted": 745.046530963,
+      "forecast": null
+    },
+    {
+      "datestamp": "2019-08-30T23:00:00.000Z",
+      "y": 746,
+      "predicted": 745.6905407471,
+      "forecast": 746.5297268463
+    },
+    {
+      "datestamp": "2019-08-31T00:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 746.2707687309
+    },
+    {
+      "datestamp": "2019-08-31T01:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 747.9299155376
+    },
+    {
+      "datestamp": "2019-08-31T02:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.3641040677
+    },
+    {
+      "datestamp": "2019-08-31T03:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.8582653356
+    },
+    {
+      "datestamp": "2019-08-31T04:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.7174882656
+    },
+    {
+      "datestamp": "2019-08-31T05:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 746.6143581582
+    },
+    {
+      "datestamp": "2019-08-31T06:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.1775942067
+    },
+    {
+      "datestamp": "2019-08-31T07:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 746.027965046
+    },
+    {
+      "datestamp": "2019-08-31T08:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.4561714906
+    },
+    {
+      "datestamp": "2019-08-31T09:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.4009725117
+    },
+    {
+      "datestamp": "2019-08-31T10:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.6808912058
+    },
+    {
+      "datestamp": "2019-08-31T11:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.6151953076
+    },
+    {
+      "datestamp": "2019-08-31T12:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.0965903159
+    },
+    {
+      "datestamp": "2019-08-31T13:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.4781624399
+    },
+    {
+      "datestamp": "2019-08-31T14:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 746.0984129969
+    },
+    {
+      "datestamp": "2019-08-31T15:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.9430594197
+    },
+    {
+      "datestamp": "2019-08-31T16:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.3808143935
+    },
+    {
+      "datestamp": "2019-08-31T17:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.8371642246
+    },
+    {
+      "datestamp": "2019-08-31T18:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.2524455804
+    },
+    {
+      "datestamp": "2019-08-31T19:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.162627232
+    },
+    {
+      "datestamp": "2019-08-31T20:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.8193255866
+    },
+    {
+      "datestamp": "2019-08-31T21:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.431847785
+    },
+    {
+      "datestamp": "2019-08-31T22:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.8166196816
+    },
+    {
+      "datestamp": "2019-08-31T23:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.1704102234
+    },
+    {
+      "datestamp": "2019-09-01T00:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.4132709662
+    },
+    {
+      "datestamp": "2019-09-01T01:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.0556444042
+    },
+    {
+      "datestamp": "2019-09-01T02:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.04096345
+    },
+    {
+      "datestamp": "2019-09-01T03:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.9341507592
+    },
+    {
+      "datestamp": "2019-09-01T04:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.7717213661
+    },
+    {
+      "datestamp": "2019-09-01T05:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.4295968448
+    },
+    {
+      "datestamp": "2019-09-01T06:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.569814644
+    },
+    {
+      "datestamp": "2019-09-01T07:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.3872912807
+    },
+    {
+      "datestamp": "2019-09-01T08:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 746.043336108
+    },
+    {
+      "datestamp": "2019-09-01T09:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 744.8299038545
+    },
+    {
+      "datestamp": "2019-09-01T10:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.0018612017
+    },
+    {
+      "datestamp": "2019-09-01T11:00:00.000Z",
+      "y": null,
+      "predicted": null,
+      "forecast": 745.2279410618
+    }
+  ]

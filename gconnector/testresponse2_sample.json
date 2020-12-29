@@ -1,0 +1,9 @@
+[{
+    "Metric": "Prediction",
+    "MAPE": 0.3087512250180803,
+    "MAE": 2.2907753455780915,
+    "MSE": 8.188596834733959,
+    "R2": -1.0084222771293674,
+    "Number of samples": 311,
+    "Execution time": "0.0 weeks, 0.0 days, 0.0 hours, 0.0 minutes, 0.0 seconds, 0.0 miliseconds"
+  }]

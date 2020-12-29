@@ -1,0 +1,13 @@
+{
+	{
+      "Metric": "Prediction",
+      "MAPE": 0.308751225,
+      "MAE": 2.2907753456,
+      "MSE": 8.1885968347,
+      "R2": -1.0084222771
+      "Number of samples": 311,
+      "Predictors:": "an_t5_average_temperature, an_ngp, an_engine_pcd, an_t1_temperature, an_turb_air_inlet_dp, an_guide_vane_position, an_pilot_gas_valve_position, an_main_gas_valve_position, an_bleed_valve_position",
+      "Execution time": "",
+      "Model": "SVR(C=0.25118864315095796, gamma=0.001, kernel='linear')"
+	}
+}
