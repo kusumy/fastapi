@@ -287,6 +287,9 @@ def get_anomaly(target: str, startdate: str, enddate: str):
     new_data_anomaly = predict_model(loaded_ano_model, data=df_target)
     new_data_anomaly = new_data_anomaly.query('Anomaly == 1')
 
+    df_target.reset_index(inplace=True)
+    new_data_anomaly.reset_index(inplace=True)
+
     table_data = json.loads(df_target.to_json(orient='records', date_format='iso', indent=4))
     anomaly_data = json.loads(new_data_anomaly.to_json(orient='records', date_format='iso', indent=4))
     data = {"table_data": table_data,
@@ -295,13 +298,18 @@ def get_anomaly(target: str, startdate: str, enddate: str):
     result = data
 
     # Save json to file
+
+    # use this for production
+    '''
     folder_target = "/var/www/html/pipeline/json"
     folder_target = folder_target + "/" + target + "/"
     target_output_file = folder_target + target + "_data.json"
     target_anomaly_file = folder_target + target + "_anomaly.json"
+    '''
 
-    #target_output_file = target + "_data.json"
-    #target_anomaly_file = target + "_anomaly.json"
+    # Use this for development
+    target_output_file = target + "_data.json"
+    target_anomaly_file = target + "_anomaly.json"
 
     with open(target_output_file, 'w', encoding='utf8') as json_file:
         json.dump(table_data, json_file, allow_nan=True)
@@ -311,9 +319,6 @@ def get_anomaly(target: str, startdate: str, enddate: str):
 
     # Query data
     return result
-
-    #return json.loads(df_config.to_json(orient='records'))
-    #return anomaly_model
 
 def save_to_database(db: Session, table_name: str, df: pd.DataFrame):
     df.to_sql(table_name, db.connection(), if_exists='replace')
