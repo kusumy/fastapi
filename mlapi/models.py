@@ -16,3 +16,4 @@ class ModelConfiguration(Base):
     model_file = Column(String)
     forecasting_table = Column(String)
     metric_table = Column(String)
+    anomaly_model = Column(String)

@@ -39,5 +39,10 @@ async def forecast(item: schemas.predictAPIParameter, db: Session=Depends(get_db
     model_forecast = crud.get_forecast(db, target=item.target, startdate=item.startdate, enddate=item.enddate, horizon=item.horizon)
     return model_forecast
 
+@app.post('/anomaly')
+async def anomaly(item: schemas.predictAPIParameter):
+    model_anomaly = crud.get_anomaly(target=item.target, startdate=item.startdate, enddate=item.enddate)
+    return model_anomaly
+
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8001)

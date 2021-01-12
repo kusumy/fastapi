@@ -6,15 +6,18 @@ import pandas as pd
 import numpy as np
 import mlapi.helper as helper
 import time
+import os
 import json
 
 from  . import models
-from humanfriendly import format_timespan
+from .database import engine
 
+from humanfriendly import format_timespan
 
 # Scikit-learn
 from sklearn.preprocessing import MinMaxScaler
-
+# PyCaret
+from pycaret.anomaly import *
 
 
 
@@ -247,6 +250,67 @@ def get_forecast(db: Session, target: str, startdate: str, enddate: str, horizon
 
     # Query data
     return result
+
+def get_anomaly(target: str, startdate: str, enddate: str):
+    sql = "SELECT target_column, anomaly_model FROM model_configuration WHERE target_name = '{}'".format(target)
+    df_config = pd.read_sql(sql, con=engine)
+
+    # Get target column
+    target_column = df_config['target_column'].values[0]
+    anomaly_model = df_config['anomaly_model'].values[0]
+
+    # Get data
+    sql = "SELECT datestamp, {} FROM hourly_log WHERE datestamp BETWEEN '{}' AND '{}'".format(target_column, startdate,
+                                                                                              enddate)
+    df_target = pd.read_sql(sql, con=engine)
+    df_target['datestamp'] = pd.to_datetime(df_target['datestamp'])
+    df_target = df_target.set_index('datestamp')
+    data = df_target
+
+    # Setup Environment for Anomaly Detection
+    exp_ano101 = setup(
+        data=data,
+        session_id=123,
+        verbose=False,
+        silent=True
+    )
+
+    # Data folder
+    current_dir = Path(__file__).resolve()
+    current_dir_parent = current_dir.parent.parent
+    model_folder = current_dir_parent / "model"
+    anomaly_model = os.path.splitext(anomaly_model)[0]
+    anomaly_model = model_folder / anomaly_model
+
+    # load the model from disk
+    loaded_ano_model = load_model(anomaly_model)
+
+    # Predict anomaly
+    new_data_anomaly = predict_model(loaded_ano_model, data=df_target)
+    new_data_anomaly = new_data_anomaly.query('Anomaly == 1')
+
+    table_data = json.loads(df_target.to_json(orient='records', date_format='iso', indent=4))
+    anomaly_data = json.loads(new_data_anomaly.to_json(orient='records', date_format='iso', indent=4))
+    data = {"table_data": table_data,
+            "anomaly_data": anomaly_data
+            }
+    result = data
+
+    # Save json to file
+    target_output_file = target + "_data.json"
+    target_metric_file = target + "_anomaly.json"
+
+    with open(target_output_file, 'w', encoding='utf8') as json_file:
+        json.dump(table_data, json_file, allow_nan=True)
+
+    with open(target_metric_file, 'w', encoding='utf8') as json_file:
+        json.dump(anomaly_data, json_file, allow_nan=True)
+
+    # Query data
+    return result
+
+    #return json.loads(df_config.to_json(orient='records'))
+    #return anomaly_model
 
 def save_to_database(db: Session, table_name: str, df: pd.DataFrame):
     df.to_sql(table_name, db.connection(), if_exists='replace')

@@ -15,6 +15,7 @@ class modelConfiguration(BaseModel):
     lag_features: int
     forecasting_horizon: int
     model_file: str
+    anomaly_model: str
 
     class Config:
         orm_mode = True
