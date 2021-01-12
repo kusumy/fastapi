@@ -9,9 +9,8 @@ import time
 import os
 import json
 
-from  . import models
+from .models import *
 from .database import engine
-
 from humanfriendly import format_timespan
 
 # Scikit-learn
@@ -20,16 +19,15 @@ from sklearn.preprocessing import MinMaxScaler
 from pycaret.anomaly import *
 
 
-
 def get_model_configuration(db: Session, target: str):
-    return db.query(models.ModelConfiguration).filter(models.ModelConfiguration.target_name == target).first()
+    return db.query(ModelConfiguration).filter(ModelConfiguration.target_name == target).first()
 
 def get_allmodel_configuration(db: Session):
-    return db.query(models.ModelConfiguration).all()
+    return db.query(ModelConfiguration).all()
 
 def get_forecast(db: Session, target: str, startdate: str, enddate: str, horizon: int=36):
     # Get model configuration
-    result_model_conf = db.query(models.ModelConfiguration).filter(models.ModelConfiguration.target_name == target).first()
+    result_model_conf = db.query(ModelConfiguration).filter(ModelConfiguration.target_name == target).first()
 
     lag = result_model_conf.lag_features
     forecasting_horizon = horizon
@@ -297,13 +295,18 @@ def get_anomaly(target: str, startdate: str, enddate: str):
     result = data
 
     # Save json to file
-    target_output_file = target + "_data.json"
-    target_metric_file = target + "_anomaly.json"
+    folder_target = "/var/www/html/pipeline/json"
+    folder_target = folder_target + "/" + target + "/"
+    target_output_file = folder_target + target + "_data.json"
+    target_anomaly_file = folder_target + target + "_anomaly.json"
+
+    #target_output_file = target + "_data.json"
+    #target_anomaly_file = target + "_anomaly.json"
 
     with open(target_output_file, 'w', encoding='utf8') as json_file:
         json.dump(table_data, json_file, allow_nan=True)
 
-    with open(target_metric_file, 'w', encoding='utf8') as json_file:
+    with open(target_anomaly_file, 'w', encoding='utf8') as json_file:
         json.dump(anomaly_data, json_file, allow_nan=True)
 
     # Query data
